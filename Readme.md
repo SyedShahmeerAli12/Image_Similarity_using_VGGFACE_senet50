@@ -41,12 +41,9 @@ Install the required Python packages listed in requirements.txt. This can be don
 pip install -r requirements.txt
 
 
-### Step 4: Run test.py (Optional)
-You can optionally run test.py to verify that everything is set up correctly.
 
-python test.py
 
-### Step 5: Run the Streamlit App
+### Step 4: Run the Streamlit App
 To start the Streamlit application, use the following command. This will launch the application and open it in your default web browser.
 
 streamlit run app.py
